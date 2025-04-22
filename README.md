@@ -5,7 +5,7 @@ Cada notebook está cuidadosamente documentado — sinta-se à vontade para expl
 
 | **Disciplina** | **Aula** | **Banco de Dados** | **Link** | **Notebook** | **Repositório** |
 | --- | --- | --- | --- | --- | --- |
-| Text Mining, Sentiment Analysis e NLP | Text Mining | Kaggle - **Netflix Reviews** | https://www.kaggle.com/datasets/ashishkumarak/netflix-reviews-playstore-daily-updated |  |  |
+| Text Mining, Sentiment Analysis e NLP | Text Mining | Kaggle - **Netflix Reviews** | https://www.kaggle.com/datasets/ashishkumarak/netflix-reviews-playstore-daily-updated | [Text Mining - Notebook Colab](https://colab.research.google.com/drive/18W_dbVLthl7KvN4ilFuapv9H9HcgLzC-?usp=sharing) |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
